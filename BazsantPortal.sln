@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bazsant-portal", "bazsant-portal\bazsant-portal.csproj", "{192EE301-F1ED-4CE2-9410-F93A1D89DEB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BazsantPortal", "BazsantPortal\BazsantPortal.csproj", "{D0E69FE3-49F8-4D3A-A261-7BC59FF62B0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{192EE301-F1ED-4CE2-9410-F93A1D89DEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{192EE301-F1ED-4CE2-9410-F93A1D89DEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{192EE301-F1ED-4CE2-9410-F93A1D89DEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{192EE301-F1ED-4CE2-9410-F93A1D89DEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E69FE3-49F8-4D3A-A261-7BC59FF62B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E69FE3-49F8-4D3A-A261-7BC59FF62B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E69FE3-49F8-4D3A-A261-7BC59FF62B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E69FE3-49F8-4D3A-A261-7BC59FF62B0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4C5DF55D-49B2-439F-B301-2176737F823B}
+		SolutionGuid = {E95C2D50-A49A-4BB1-93E2-51E9DC380E29}
 	EndGlobalSection
 EndGlobal
